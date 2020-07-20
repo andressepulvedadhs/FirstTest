@@ -65,4 +65,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 
-*/*/.gitignore
+*/*/*.gitignore
