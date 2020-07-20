@@ -12,9 +12,6 @@
 *.pch
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -46,8 +43,8 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+#Binaries/*
+#Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -72,3 +69,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+<<<<<<< HEAD
+#Ignora cualquier archivo hola de cualquier carpeta
+*/*/hola
+=======
+
+<<<<<<< HEAD
+Content/*.gitignore
+>>>>>>> parent of 5dc7bc4... Update .gitignore
+=======
+*/*/*.gitignore
+>>>>>>> parent of d5c7226... Update .gitignore
